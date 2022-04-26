@@ -1,3 +1,3 @@
 # DataLearn
 
-My repo for Learning Everything 
+My repo for Learning Everything about Data
