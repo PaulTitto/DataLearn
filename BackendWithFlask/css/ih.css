@@ -1,0 +1,22 @@
+.container{
+    color:orangered;
+}
+a{
+    color: inherit;
+}
+
+.inner{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    margin: inherit;
+}
+
+.outer{
+    /* background-color: #bbbbbb; */
+    background: url('');
+    background-size: cover;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}

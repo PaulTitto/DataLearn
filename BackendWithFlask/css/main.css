@@ -1,0 +1,23 @@
+h1, p{
+    color:green;
+}
+
+h1,
+.red{
+    color: red;
+}
+#orange{
+    color: orange;
+}
+
+#purple{
+    color: purple;
+}
+
+ul li a{
+    color:orangered;
+}
+
+dl > dt{
+    font-weight: 700;
+}
